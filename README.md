@@ -21,15 +21,15 @@ You'll need a Reddit account with OAuth2 for a script app, please see this page 
 GME     1698
 AMC     306
 RKT     114
-PLTR        104
+PLTR    104
 BB      71
-TSLA        70
+TSLA    70
 F       63
-AAPL        43
+AAPL    43
 NIO     41
-RIOT        38
+RIOT    38
 NOK     37
-MVIS        34
+MVIS    34
 ```
 the number is how many different redditors mentioned the stock symbol
 
